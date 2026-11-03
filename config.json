@@ -1,0 +1,242 @@
+{
+"profile": {
+"title": "Systems Analyst & Data Engineering Tracker",
+"subtitle": "Allentown, PA · Remote",
+"emoji": "⚙️"
+},
+"keywords": {
+"include": [
+"systems analyst",
+"data engineer",
+"etl developer",
+"integration engineer",
+"integration developer",
+"workato developer",
+"workato engineer",
+"sql developer",
+"database developer",
+"ehr analyst",
+"ehr developer",
+"myevolv analyst",
+"systems integration engineer",
+"business systems analyst",
+"data integration engineer",
+"enterprise integration engineer",
+"application analyst",
+"automation engineer",
+"sql database administrator",
+"data platform engineer",
+"palantir foundry engineer",
+"c# developer",
+".net developer",
+"sharepoint administrator",
+"sharepoint engineer"
+],
+"exclude": [
+"intern",
+"internship",
+"co-op",
+"trainee",
+"postdoc",
+"student",
+"director",
+"vice president",
+"vp",
+"chief",
+"helpdesk",
+"desktop support",
+"field technician"
+]
+},
+"search_terms": {
+"linkedin": [
+"Systems Analyst",
+"Data Engineer",
+"Integration Engineer",
+"ETL Developer",
+"Workato Engineer",
+"SQL Developer",
+"EHR Systems Analyst",
+"Integration Developer",
+"Systems Integration Engineer",
+"Business Systems Analyst",
+"Data Integration Developer",
+"Palantir Developer",
+"C# .NET Developer",
+"SharePoint Administrator",
+"Enterprise Automation Engineer"
+],
+"indeed": [
+"Systems Analyst",
+"Data Engineer",
+"Integration Engineer",
+"ETL Developer",
+"Workato",
+"SQL Developer",
+"EHR Analyst"
+],
+"glassdoor": [
+"Systems Analyst",
+"Data Engineer",
+"Integration Engineer",
+"ETL Developer",
+"Workato",
+"SQL Developer",
+"EHR Analyst"
+],
+"ziprecruiter": [
+"Systems Analyst",
+"Data Engineer",
+"Integration Engineer",
+"ETL Developer",
+"Workato",
+"SQL Developer",
+"EHR Analyst"
+],
+"google_jobs": [
+"Systems Analyst",
+"Data Engineer",
+"Integration Engineer",
+"ETL Developer",
+"Workato",
+"SQL Developer",
+"EHR Analyst"
+],
+"hiring_cafe": [
+"Systems Analyst",
+"Data Engineer",
+"Integration Engineer",
+"ETL Developer",
+"Workato",
+"SQL Developer",
+"EHR Analyst"
+]
+},
+"locations": {
+"linkedin": [
+{
+"name": "Allentown, PA",
+"location": "Allentown, Pennsylvania, United States",
+"geoId": ""
+},
+{
+"name": "Remote",
+"location": "Remote",
+"geoId": ""
+}
+],
+"indeed": [
+{
+"location": "Allentown, PA",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"glassdoor": [
+{
+"location": "Allentown, PA",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"ziprecruiter": [
+{
+"location": "Allentown, PA",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"google_jobs": [
+{
+"location": "Allentown, PA",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"hiring_cafe": [
+{
+"location": "United States"
+}
+]
+},
+"google_jobs": {
+"queries": [],
+"serpapi_api_key": "",
+"oxylabs_username": "",
+"oxylabs_password": ""
+},
+"hiring_cafe": {
+"max_pages": 3
+},
+"employers": {
+"priority": [],
+"exclude": []
+},
+"priority_topics": {
+"terms": [
+[
+"Workato & API Integration",
+"(?i)\b(workato|api|webapi|fhir|rest|integration|middleware)\b"
+],
+[
+"SQL & Data Engineering",
+"(?i)\b(sql|ssms|etl|elt|pipeline|database|schema)\b"
+],
+[
+"Palantir Foundry",
+"(?i)\b(palantir|foundry)\b"
+],
+[
+"EHR Systems",
+"(?i)\b(ehr|myevolv|healthcare|clinical)\b"
+],
+[
+"Automation & Scheduling",
+"(?i)\b(visualcron|automation|c#|\.net|webforms|halo)\b"
+]
+]
+},
+"role_categories": {
+"terms": [
+[
+"Integration Engineering",
+"(?i)\b(integration|workato|middleware|api)\b"
+],
+[
+"Data Engineering & ETL",
+"(?i)\b(data engineer|etl|pipeline|data integration)\b"
+],
+[
+"Systems & Business Analysis",
+"(?i)\b(systems analyst|business systems analyst|application analyst)\b"
+],
+[
+"SQL & Database Development",
+"(?i)\b(sql|database|ssms)\b"
+],
+[
+"EHR & Health IT Specialist",
+"(?i)\b(ehr|myevolv|health it|clinical systems)\b"
+],
+[
+"Software & Automation Development",
+"(?i)\b(c#|\.net|developer|software engineer|automation engineer)\b"
+]
+]
+},
+"notify": {
+"min_fit": 75
+}
+}
