@@ -204,7 +204,7 @@
 ],
 [
 "Automation & Scheduling",
-"(?i)\b(visualcron|automation|c#|\.net|webforms|halo)\b"
+"(?i)\b(visualcron|automation|c#|webforms|halo)\b"
 ]
 ]
 },
@@ -232,7 +232,7 @@
 ],
 [
 "Software & Automation Development",
-"(?i)\b(c#|\.net|developer|software engineer|automation engineer)\b"
+"(?i)\b(c#|developer|software engineer|automation engineer)\b"
 ]
 ]
 },
