@@ -1,1 +1,27 @@
-{"scraped_at": "2026-11-03 21:43 UTC", "total": 0, "new_count": 0, "jobs": [], "new_jobs": []}
+{
+  "scraped_at": "2026-11-04 21:56 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Valley Water",
+      "title": "Information Systems Analyst III – Enterprise Data & Records Governance Analyst",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/valley-water/job-20788060",
+      "date_posted": "",
+      "salary": "$144,019.20-$184,433.60 Annually",
+      "ats": "CalOpps"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Valley Water",
+      "title": "Information Systems Analyst III – Enterprise Data & Records Governance Analyst",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/valley-water/job-20788060",
+      "date_posted": "",
+      "salary": "$144,019.20-$184,433.60 Annually",
+      "ats": "CalOpps"
+    }
+  ]
+}
