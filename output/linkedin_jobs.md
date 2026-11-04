@@ -1,78 +1,122 @@
 # 🔥 LinkedIn — Systems Analyst & Data Engineering Roles
-*Last updated: 2026-11-04 01:37 UTC*
+*Last updated: 2026-11-04 09:31 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Application Systems Analyst I - Full Time - Days - AHSIC](https://www.linkedin.com/jobs/view/4486313806/) — Atlantic Health
-- 📍 **Location:** Morris Plains, NJ
-- 💰 **Salary:** $34.82/hr - $61.26/hr
+### [Senior Business Systems Analyst – HR Systems](https://www.linkedin.com/jobs/view/4395211149/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $136,600.00/yr - $231,300.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Senior Drug Safety Systems Analyst](https://www.linkedin.com/jobs/view/4485046044/) — Technical Resources International, Inc.
-- 📍 **Location:** Bethesda, MD
+### [Senior Logistics Systems Analyst](https://www.linkedin.com/jobs/view/4485083055/) — SoTalent
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-11-04
 
-### [Senior Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4487040126/) — CareFirst BlueCross BlueShield
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $99,000 - $196,625
+### [Data Engineer](https://www.linkedin.com/jobs/view/4476604030/) — Jobot
+- 📍 **Location:** Alhambra, CA
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Senior Data Engineer, Ads](https://www.linkedin.com/jobs/view/4475336528/) — Discord
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $196,000—$245,000 USD
+### [Data Engineer II (dbt, AWS)](https://www.linkedin.com/jobs/view/4469095829/) — Travelers
+- 📍 **Location:** Hartford, CT
+- 💰 **Salary:** $129,600.00 - $213,800.00
 - 🕒 **Posted:** 2026-11-04
 
-### [Sr. Snowflake Data Engineer](https://www.linkedin.com/jobs/view/4487041094/) — TEKsystems
-- 📍 **Location:** South Sioux City, NE
-- 💰 **Salary:** $140,000.00/yr - $165,000.00/yr
+### [Azure Data Engineer](https://www.linkedin.com/jobs/view/4461531603/) — Booz Allen Hamilton
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $62,000.00 to $141,000.00
 - 🕒 **Posted:** 2026-11-04
 
-### [Senior Equities Data Engineer](https://www.linkedin.com/jobs/view/4486316789/) — Balyasny Asset Management L.P.
-- 📍 **Location:** Chicago, IL
+### [Staff Data Engineer](https://www.linkedin.com/jobs/view/4459851913/) — DAT Freight & Analytics
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $134,000.00 - $175,000.00
 - 🕒 **Posted:** 2026-11-04
 
-### [AI Database Developer - Consulting Technical Manager](https://www.linkedin.com/jobs/view/4485029606/) — Oracle
-- 📍 **Location:** Reston, VA
-- 💰 **Salary:** $102,300 - $209,500 per year
+### [Software and Systems Integration Engineer](https://www.linkedin.com/jobs/view/4434923311/) — Booz Allen Hamilton
+- 📍 **Location:** Dahlgren, VA
+- 💰 **Salary:** $86,800.00 to $198,000.00
 - 🕒 **Posted:** 2026-11-04
 
-### [AI Database Developer - Consulting Technical Manager](https://www.linkedin.com/jobs/view/4485036442/) — Oracle
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $102,300 - $209,500 per year
+### [Integration Developer](https://www.linkedin.com/jobs/view/4486303115/) — Tech Global
+- 📍 **Location:** Harrisburg, PA
 - 🕒 **Posted:** 2026-11-04
 
-### [Senior Manager, Data Engineering & AI](https://www.linkedin.com/jobs/view/4487083611/) — CVS Health
-- 📍 **Location:** Irving, TX
-- 💰 **Salary:** $118,450.00 - $284,280.00
+### [Photonics Integration Engineer, MTS](https://www.linkedin.com/jobs/view/4465422473/) — Micron Technology
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $131,000.00 - $241,000.00
 - 🕒 **Posted:** 2026-11-04
 
-### [Integration Engineer](https://www.linkedin.com/jobs/view/4487096061/) — TEKsystems
-- 📍 **Location:** Palm Beach, FL
-- 💰 **Salary:** $125,000.00/yr - $135,000.00/yr
+### [Automation Engineer](https://www.linkedin.com/jobs/view/4479095360/) — Philip Morris International
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $88,000 - $110,000
 - 🕒 **Posted:** 2026-11-04
 
-### [Senior Systems Integration Engineer (Active TS/SCI/Poly)](https://www.linkedin.com/jobs/view/4486311779/) — Peraton
-- 📍 **Location:** Buckley AFB, CO
-- 💰 **Salary:** $104,000 - $166,000
+### [Palantir Data Engineer](https://www.linkedin.com/jobs/view/4451498783/) — Booz Allen Hamilton
+- 📍 **Location:** Norfolk, VA
+- 💰 **Salary:** $77,600.00 to $176,000.00
 - 🕒 **Posted:** 2026-11-04
 
-### [AI & Automation Engineer](https://www.linkedin.com/jobs/view/4485024956/) — Technical Resources International, Inc.
-- 📍 **Location:** Bethesda, MD
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4469989082/) — Brooksource
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $55.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-11-04
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487081752/) — Trinzic
-- 📍 **Location:** Beavercreek, OH
+### [Senior SQL Database Administrator](https://www.linkedin.com/jobs/view/4476609071/) — Zelis
+- 📍 **Location:** Morristown, NJ
+- 💰 **Salary:** $105,000.00 - $133,000.00
 - 🕒 **Posted:** 2026-11-04
 
-### [Automation Engineer - Denver, CO area](https://www.linkedin.com/jobs/view/4486305964/) — ESCO Automation
-- 📍 **Location:** Louisville, CO
+### [Integration Engineer II with Multiple API and Integration Tool Experience](https://www.linkedin.com/jobs/view/4449421017/) — Deloitte
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $86,700-$170,900
 - 🕒 **Posted:** 2026-11-04
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487081876/) — GamblingCareers.com
-- 📍 **Location:** Austin, TX
+### [Integration Engineer II with Multiple API and Integration Tool Experience](https://www.linkedin.com/jobs/view/4449099868/) — Deloitte
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $86,700-$170,900
 - 🕒 **Posted:** 2026-11-04
 
-### [Software Integration Engineer](https://www.linkedin.com/jobs/view/4487202225/) — ASML
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $120,000.00/yr - $198,000.00/yr
+### [Integration Engineer II with Multiple API and Integration Tool Experience](https://www.linkedin.com/jobs/view/4449419206/) — Deloitte
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $86,700-$170,900
+- 🕒 **Posted:** 2026-11-04
+
+### [Robotic Algorithms and Controls Engineer (Systems Analyst)](https://www.linkedin.com/jobs/view/4451830598/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $130,300.00/yr - $220,700.00/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [Senior Software Engineer, Data Engineering](https://www.linkedin.com/jobs/view/4476616108/) — DoorDash
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $143,800—$211,500 USD
+- 🕒 **Posted:** 2026-11-04
+
+### [Software Engineer, Data Engineering](https://www.linkedin.com/jobs/view/4476616105/) — DoorDash
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $117,500—$172,800 USD
+- 🕒 **Posted:** 2026-11-04
+
+### [Palantir Data Engineer](https://www.linkedin.com/jobs/view/4451600723/) — Booz Allen Hamilton
+- 📍 **Location:** Aberdeen Proving Ground, MD
+- 💰 **Salary:** $77,600.00 to $176,000.00
+- 🕒 **Posted:** 2026-11-04
+
+### [Integration Engineer II with Multiple API and Integration Tool Experience](https://www.linkedin.com/jobs/view/4449415327/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $86,700-$170,900
+- 🕒 **Posted:** 2026-11-04
+
+### [SharePoint Administrator](https://www.linkedin.com/jobs/view/4451343298/) — General Dynamics Information Technology
+- 📍 **Location:** North Liberty, NC
+- 💰 **Salary:** $88,130 - $103,500
+- 🕒 **Posted:** 2026-11-04
+
+### [Automation Engineer - 2nd Shift (Food Manufacturing)](https://www.linkedin.com/jobs/view/4460035154/) — Conagra Brands
+- 📍 **Location:** Quincy, MI
+- 💰 **Salary:** $64,000.00 - $109,000.00
+- 🕒 **Posted:** 2026-11-04
+
+### [Integration Engineer II with Multiple API and Integration Tool Experience](https://www.linkedin.com/jobs/view/4449406488/) — Deloitte
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $86,700-$170,900
 - 🕒 **Posted:** 2026-11-04
