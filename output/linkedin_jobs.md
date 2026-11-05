@@ -1,134 +1,103 @@
 # 🔥 LinkedIn — Systems Analyst & Data Engineering Roles
-*Last updated: 2026-11-05 11:41 UTC*
+*Last updated: 2026-11-05 21:42 UTC*
 
-**27 new role(s)** since last run · 35 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Business Systems Analyst](https://www.linkedin.com/jobs/view/4471255096/) — Daimler Truck North America
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $83,125 – $100,625 USD
+### [Sr. Application Analyst-Epic - MyChart/EpicCare Link](https://www.linkedin.com/jobs/view/4488052171/) — Henry Ford Health
+- 📍 **Location:** Troy, MI
 - 🕒 **Posted:** 2026-11-05
 
-### [Senior Systems Analyst](https://www.linkedin.com/jobs/view/4487733571/) — NYC Health + Hospitals
+### [MS Dynamics AX / 365 Business Systems Analyst/Project Manager](https://www.linkedin.com/jobs/view/4488054052/) — Yoh, A Day & Zimmermann Company
+- 📍 **Location:** Addison, TX
+- 🕒 **Posted:** 2026-11-05
+
+### [Business Systems Analyst ( This is an Incumbent role)](https://www.linkedin.com/jobs/view/4488059024/) — Innovee Consulting LLC
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $70,000.00/yr - $86,000.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [Revenue Cycle Systems Analyst](https://www.linkedin.com/jobs/view/4485818150/) — CHI
-- 📍 **Location:** Omaha, NE
-- 💰 **Salary:** $29.36 - $43.68 /hour
+### [Data Engineer | Global Macro Hedge Fund | NYC | Python, SQL & Snowflake](https://www.linkedin.com/jobs/view/4460718666/) — Saragossa
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4479771292/) — ALTEN Technology USA
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $130K-$150K
+### [Data Engineer](https://www.linkedin.com/jobs/view/4486903288/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4463093064/) — Partner Forces
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $110,000 - 165,000
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4488051248/) — InfoStride
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-11-05
 
-### [Senior Analytics Data Engineer](https://www.linkedin.com/jobs/view/4458365554/) — GEICO
-- 📍 **Location:** Virginia Beach, VA
-- 💰 **Salary:** $73,800.00/yr - $141,450.00/yr
+### [SAP Data Integration Engineer](https://www.linkedin.com/jobs/view/4485866414/) — oXya - USA
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-11-05
 
-### [Senior Analytics Data Engineer](https://www.linkedin.com/jobs/view/4458353677/) — GEICO
-- 📍 **Location:** Getzville, NY
-- 💰 **Salary:** $73,800.00/yr - $141,450.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Avionics Integration Engineer](https://www.linkedin.com/jobs/view/4468910829/) — Mach Industries
-- 📍 **Location:** Huntington Beach, CA
-- 💰 **Salary:** $120,000—$155,000 USD
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Electrical Sustaining and Integration Engineer](https://www.linkedin.com/jobs/view/4461376621/) — DZYNE Technologies
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $135,000 - $175,000 annually
-- 🕒 **Posted:** 2026-11-05
-
-### [Mechanical Systems Integration Engineer](https://www.linkedin.com/jobs/view/4478832108/) — Bedrock Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior BEOL Process Integration Engineer](https://www.linkedin.com/jobs/view/4471143150/) — Kforce Inc
-- 📍 **Location:** Chandler, AZ
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4479757797/) — ALTEN Technology USA
-- 📍 **Location:** Fort Worth, TX
-- 💰 **Salary:** $130K-$150K
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Analytics Data Engineer](https://www.linkedin.com/jobs/view/4458352671/) — GEICO
-- 📍 **Location:** Lakeland, FL
-- 💰 **Salary:** $73,800.00/yr - $141,450.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Blue Cruise Core Integration Engineer](https://www.linkedin.com/jobs/view/4487749132/) — Ford Motor Company
-- 📍 **Location:** Dearborn, MI
-- 💰 **Salary:** $84,480- $166,200
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Automation Engineer, Factory Software](https://www.linkedin.com/jobs/view/4459913437/) — Mach Industries
-- 📍 **Location:** Huntington Beach, CA
-- 💰 **Salary:** $150,000—$195,000 USD
-- 🕒 **Posted:** 2026-11-05
-
-### [Business Systems Analyst](https://www.linkedin.com/jobs/view/4483023961/) — CACI International Inc
-- 📍 **Location:** Reston, VA
-- 💰 **Salary:** $86,600 - $181,800
-- 🕒 **Posted:** 2026-11-05
-
-### [Business Systems Analyst, GTM Systems](https://www.linkedin.com/jobs/view/4461764576/) — LangChain
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Data Engineer III - Finance, HR, and ESG](https://www.linkedin.com/jobs/view/4487748211/) — Ahold Delhaize USA
-- 📍 **Location:** Salisbury, NC
-- 💰 **Salary:** $125,040 - $187,560
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4451628158/) — MANTECH
-- 📍 **Location:** Chantilly, VA
-- 🕒 **Posted:** 2026-11-05
-
-### [Data Engineer III - Finance, HR, and ESG](https://www.linkedin.com/jobs/view/4487737723/) — Ahold Delhaize USA
-- 📍 **Location:** Quincy, MA
-- 💰 **Salary:** $125,040 - $187,560
-- 🕒 **Posted:** 2026-11-05
-
-### [Staff Data Engineer, Data Platform - IntelliScript (Remote)](https://www.linkedin.com/jobs/view/4449585615/) — Milliman IntelliScript
-- 📍 **Location:** Brookfield, WI
-- 💰 **Salary:** $131,600 - $249,780
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4462009859/) — Steelcase
-- 📍 **Location:** Grand Rapids, MI
-- 💰 **Salary:** $120,000 – $140,000
-- 🕒 **Posted:** 2026-11-05
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4487738777/) — Ramsey Solutions
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $88,920–$120,000/year
-- 🕒 **Posted:** 2026-11-05
-
-### [AWS Data Engineer](https://www.linkedin.com/jobs/view/4469069340/) — Tata Consultancy Services
-- 📍 **Location:** Irving, TX
-- 💰 **Salary:** $90,000 to $110,000 per year
-- 🕒 **Posted:** 2026-11-05
-
-### [Control Systems and Automation Engineer - Managed Pressure Drilling](https://www.linkedin.com/jobs/view/4479704964/) — Weatherford
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4488054196/) — BCforward
 - 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-11-05
 
-### [Manufacturing Automation Engineer](https://www.linkedin.com/jobs/view/4477015492/) — Saronic Technologies
-- 📍 **Location:** Austin, TX
+### [Senior Data Analyst/Data Engineer (Candidates must be local to Raleigh, NC)](https://www.linkedin.com/jobs/view/4488041614/) — Taras Technology LLC
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-11-05
 
-### [Senior Cloud Automation Engineer](https://www.linkedin.com/jobs/view/4453067799/) — GovCIO
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** USD $220,000.00 - USD $240,000.00 /Yr
+### [Data Engineer](https://www.linkedin.com/jobs/view/4486913034/) — LHH
+- 📍 **Location:** Woodland, CA
+- 💰 **Salary:** $110,000.00/yr - $135,000.00/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Engineer (Power BI/Snowflake)](https://www.linkedin.com/jobs/view/4486903257/) — Capgemini
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $85,000 - $95,000
+- 🕒 **Posted:** 2026-11-05
+
+### [Sr. Data Engineer- Full Time- 8+years Profile](https://www.linkedin.com/jobs/view/4485869234/) — Visionary Innovative Technology Solutions LLC
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-11-05
+
+### [Staff / Senior Staff Test Automation Engineer](https://www.linkedin.com/jobs/view/4488045532/) — SciTec
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $102,000- $157,000
+- 🕒 **Posted:** 2026-11-05
+
+### [Integration Engineer](https://www.linkedin.com/jobs/view/4486793943/) — Delphi-US, LLC - Peacemakers in the Talent War
+- 📍 **Location:** Pawtucket, RI
+- 💰 **Salary:** $55-$65
+- 🕒 **Posted:** 2026-11-05
+
+### [Oracle SQL - PL/SQL Developer - W2](https://www.linkedin.com/jobs/view/4485855846/) — SDVS Technologies LLC
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-11-05
+
+### [Sr Data Engineer (Private Markets domain background)](https://www.linkedin.com/jobs/view/4488055203/) — Wissen Technology
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-11-05
+
+### [IT Systems Analyst](https://www.linkedin.com/jobs/view/4485857719/) — SSi People
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4488043756/) — Medfort Hospital Clinics Qatar
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-11-05
+
+### [SharePoint Administrator ( This is An Incumbent Role)](https://www.linkedin.com/jobs/view/4488054175/) — Innovee Consulting LLC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-05
+
+### [Full Stack .NET Developer (C2C is not Possible)](https://www.linkedin.com/jobs/view/4485877006/) — Info Services
+- 📍 **Location:** Florham Park, NJ
+- 🕒 **Posted:** 2026-11-05
+
+### [Senior .NET Developer](https://www.linkedin.com/jobs/view/4488026115/) — Kforce Inc
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $119.00/hr - $128.00/hr
+- 🕒 **Posted:** 2026-11-05
+
+### [Automation Engineer](https://www.linkedin.com/jobs/view/4485874160/) — Egnite HR TECH
+- 📍 **Location:** Asheville, NC
+- 🕒 **Posted:** 2026-11-05
+
+### [AWS IAM & Automation Engineer :: Local to NJ/NY](https://www.linkedin.com/jobs/view/4488052277/) — KPG99 INC
+- 📍 **Location:** New Jersey, United States
 - 🕒 **Posted:** 2026-11-05
